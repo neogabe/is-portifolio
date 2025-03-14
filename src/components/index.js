@@ -5,6 +5,8 @@ import Footer from "./Footer/Footer";
 import Menu from "./Menu/Menu";
 import Navbar from "./Navbar/Navbar";
 import Pagination from "./Pagination/Pagination";
+import ThemeToggle from "./ThemeToggle/ThemeToggle";
+import AuthLinks from "./AuthLinks/AuthLinks";
 
 export {
   CardList,
@@ -13,5 +15,7 @@ export {
   Footer,
   Menu,
   Navbar,
-  Pagination
+  Pagination,
+  ThemeToggle,
+  AuthLinks
 }
